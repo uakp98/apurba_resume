@@ -1,20 +1,20 @@
-# Soumyadip is Coding Enthusiastic, JAVA Lover, Full-Stack Web Developer, Trainer, Cloud-DevOps Engineer 
-# Website: https://soumyadip007.github.io/Resume/
+# Apurba Resume-- Coding Enthusiastic, JAVA Lover, Full-Stack Web Developer, Trainer, Database Engineer 
+# Website: https://uakp98.github.io/apurba_resume/
 
 
-
+/*
 <img src="./img/1.png" >
 <img src="./img/2.png" >
 <img src="./img/3.png" >
 <img src="./img/4.png" >
 <img src="./img/5.png" >
-
-## Copyright @soumyadip007
+*/
+## Copyright @uakp98
 ```shell
 /**
  * 
- * @author Soumyadip Chowdhury
- * @github soumyadip007
+ * @author Apurba kumar Pramanik
+ * @github uakp98
  *
  */
 
