@@ -346,10 +346,12 @@ p {
   backface-visibility: hidden;
   -webkit-backface-visibility: hidden; }
 
+/*
 #particles-js {
     //background: #b6182b;//black;
     height: 200vh;
 }
+*/
 .fixed-bg-overlay {
   background: rgba(255, 255, 255, 0);
   height: 100%;
